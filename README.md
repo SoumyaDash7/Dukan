@@ -1,2 +1,0 @@
-# Dukan
-E-Commerce website.
